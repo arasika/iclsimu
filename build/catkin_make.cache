@@ -1,0 +1,2 @@
+icl_simu
+-DCATKIN_DEVEL_PREFIX=/home/hlh/iclsimu_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hlh/iclsimu_ws/install -G Unix Makefiles

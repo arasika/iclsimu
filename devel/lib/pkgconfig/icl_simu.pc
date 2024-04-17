@@ -1,0 +1,8 @@
+prefix=/home/hlh/iclsimu_ws/devel
+
+Name: icl_simu
+Description: Description of icl_simu
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
